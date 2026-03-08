@@ -80,7 +80,7 @@ Then connect to Private EC2:
 
 ssh -i key.pem ec2-user@<Private-EC2-IP>
 
-![](/Screenshot%202026-03-07%20191852.png)
+![](/Screenshot%202026-03-07%20192357.png)
 
 6. Installed Web Server
 sudo yum update -y
