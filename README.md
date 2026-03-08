@@ -107,7 +107,6 @@ Security Features
 
 Private EC2 instances have no public IP
 
-Access restricted through Bastion Host
 
 IAM Roles used instead of access keys
 
