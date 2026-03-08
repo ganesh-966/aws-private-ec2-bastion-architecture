@@ -1,0 +1,1 @@
+# aws-private-ec2-bastion-architecture
